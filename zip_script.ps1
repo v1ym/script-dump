@@ -1,3 +1,4 @@
+#powershell script
 #removes current zip and zips contents in one version higher
 #for uploading .php files to AWS
 
