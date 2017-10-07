@@ -1,4 +1,5 @@
-#powershell script
+#powershell script, numbers in substring to change with length of filename
+
 #removes current zip and zips contents in one version higher
 #for uploading .php files to AWS
 
