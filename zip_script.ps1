@@ -5,7 +5,6 @@
 $path = ".\soc"
 $destinationpath = ".\soc"
 
-
 #for removing and increasing versions
 $i = [string[]](Get-ChildItem $path *.zip) | Out-String
 $length = $i.length - 11
