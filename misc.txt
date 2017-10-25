@@ -1,0 +1,6 @@
+#save as .bat file
+set __COMPAT_LAYER=RunAsInvoker
+start P:\Desktop\install_folder\winzip21.exe
+
+#save as .ps1 file
+msiexec /a python-2.7.14rc1.amd64.msi /qb TARGETDIR=C:\Python
